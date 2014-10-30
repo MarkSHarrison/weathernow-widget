@@ -26,5 +26,5 @@ Erik Flowers' [Weather Icons](http://erikflowers.github.io/weather-icons/).
 
 ## License
 
-See [LICENSE](https://raw.githubusercontent.com/briandconnelly/weathernow-widget/master/screenshot.png)
+See [LICENSE](https://raw.githubusercontent.com/briandconnelly/weathernow-widget/master/LICENSE).
 
