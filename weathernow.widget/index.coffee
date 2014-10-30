@@ -1,5 +1,5 @@
 # TODO: Add your location and forecast.io api key below
-apiKey   = 'TODO'
+apiKey   = '<api-key>'
 location = '47.6413,-122.3298'
 
 exclude  = "hourly,alerts,flags"
