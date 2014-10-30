@@ -1,5 +1,6 @@
 {
-  "name": "Weather",
-  "description": "A simple weather forcast widget. NOTE: You will need your own forecast.io api key. Please check the README for details.",
-  "author": "Felix Hageloh"
+  "name": "Weather Now",
+  "description": "A simple widget that displays the current weather. See the README for details.",
+  "author": "Brian Connelly"
+  "email": "bdc@bconnelly.net"
 }
