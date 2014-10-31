@@ -1,6 +1,6 @@
 {
   "name": "Weather Now",
   "description": "A simple widget that displays the current weather. See the README for details.",
-  "author": "Brian Connelly"
+  "author": "Brian Connelly",
   "email": "bdc@bconnelly.net"
 }
