@@ -5,7 +5,7 @@ location = '47.6413,-122.3298'
 exclude  = "hourly,alerts,flags"
 command: "curl -s 'https://api.forecast.io/forecast/#{apiKey}/#{location}?units=auto&exclude=#{exclude}'"
 
-# Refresh every 60 seconds
+# Refresh every 60 seconds (in milliseconds)
 refreshFrequency: 60000
 
 render: (o) -> """
@@ -70,7 +70,7 @@ style: """
     vertical-align: middle
 
   .temp, .summary
-    padding-left: 70px
+    padding-left: 80px
 
   .temp
     font-weight: 200
@@ -79,7 +79,7 @@ style: """
 
     .now
       float: left
-      padding-right: 0px
+      padding-right: 20px
 
     .hilow
       float: left
